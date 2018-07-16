@@ -1,89 +1,126 @@
 <h1>Privacy Policy</h1>
 
 
-<p>Effective date: July 16, 2018</p>
+<p>PomanysochkaCompany ("developers") built the English Words For Kids app as an Ad Supported app. This SERVICE
+("app") is provided by at no cost.</p>
+
+<p>This privacy policy is used to inform you regarding policies with the collection, use, and 
+disclosure of Personal Information if anyone decided to use this Service.</p>
 
 
-<p>English Words For Kids ("us", "we", or "our") operates the  website and the English Words For Kids mobile application (the "Service").</p>
+<h2>1. Overview</h2>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This Privacy Policy  for English Words For Kids is powered by <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">FreePrivacyPolicy.com</a>.</p>
+<p>The app uses advertising to make revenue. The app uses third party
+libraries for advertising which may collect and share personal information with third
+parties.</p>
 
-<p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
-
-
-<h2>Information Collection And Use</h2>
-
-<p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
-
-<h3>Types of Data Collected</h3>
-
-<h4>Personal Data</h4>
-
-<p>While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:</p>
+<p>Links to privacy policies of third party service providers used in the app</p>
 
 <ul>
-<li>First name and last name</li><li>Cookies and Usage Data</li>
+<li><a src="https://www.google.com/policies/privacy/">Google Play Services</a></li>
+<li><a src="https://support.google.com/admob/answer/6128543">AdMob</a></li>
 </ul>
 
-<h4>Usage Data</h4>
 
-<p>We may also collect information that your browser sends whenever you visit our Service or when you access the Service by or through a mobile device ("Usage Data").</p>
-<p>This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
-<p>When you access the Service by or through a mobile device, this Usage Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data.</p>
+<h2>2. Sharing Your Information</h2>
 
-<h4>Tracking & Cookies Data</h4>
-<p>We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.</p>
-<p>Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.</p>
-<p>You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.</p>
-<p>Examples of Cookies we use:</p>
+<p>Developers will share personal information with third parties only in the ways that are 
+described in this privacy statement.</p>
+
+<p>Your personal information may be disclosed:
 <ul>
-    <li><strong>Session Cookies.</strong> We use Session Cookies to operate our Service.</li>
-    <li><strong>Preference Cookies.</strong> We use Preference Cookies to remember your preferences and various settings.</li>
-    <li><strong>Security Cookies.</strong> We use Security Cookies for security purposes.</li>
-</ul>
-
-<h2>Use of Data</h2>
-    
-<p>English Words For Kids uses the collected data for various purposes:</p>    
-<ul>
-    <li>To provide and maintain the Service</li>
-    <li>To notify you about changes to our Service</li>
-    <li>To allow you to participate in interactive features of our Service when you choose to do so</li>
-    <li>To provide customer care and support</li>
-    <li>To provide analysis or valuable information so that we can improve the Service</li>
-    <li>To monitor the usage of the Service</li>
-    <li>To detect, prevent and address technical issues</li>
-</ul>
-
-<h2>Transfer Of Data</h2>
-<p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
-<p>If you are located outside Ukraine and choose to provide information to us, please note that we transfer the data, including Personal Data, to Ukraine and process it there.</p>
-<p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-<p>English Words For Kids will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
-
-<h2>Disclosure Of Data</h2>
-
-<h3>Legal Requirements</h3>
-<p>English Words For Kids may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
-<ul>
-    <li>To comply with a legal obligation</li>
-    <li>To protect and defend the rights or property of English Words For Kids</li>
-    <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
-    <li>To protect the personal safety of users of the Service or the public</li>
-    <li>To protect against legal liability</li>
-</ul>
-
-<h2>Security Of Data</h2>
-<p>The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.</p>
+<li>As required by law, such as to comply with a subpoena, or similar legal process.</li>
+<li>To any other third party with your prior consent to do so.</li>
+</ul></p>
 
 
-<h2>Changes To This Privacy Policy</h2>
-<p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.</p>
-<p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+<h2>3. What information are collected and why</h2>
+
+<h3>3.1 AdMob</h3>
+
+<p>AdMob, is Google's mobile app advertising platform designed specifically for app
+developers. In order to understand Google's use of Data, consult Google's partner policy.</p>
+
+<p>
+<ul>Personal Data:
+<li>Online identifiers, including cookie identifiers</li>
+<li>IP addresses</li>
+<li>Device identifiers</li>
+<li>Client identifiers</li>
+<li>unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)</li>
+<li>Usage Data.</li>
+</ul></p>
+
+<p><i>Retention</i>:
+Google anonymizes the log data by removing part of the IP address (after 9 months) and 
+cookie information (after 18 months)
+</p>
+
+<p><ul>
+Online resources:
+<li><a src="https://www.google.com/policies/technologies/ads/">Privacy Policy</a></li>
+<li><a src="https://www.google.com/settings/ads">Opt out</a></li>                   
+<li><a src="https://privacy.google.com/businesses/adsservices/">Service Information</a></li>    
+<li><a src="https://policies.google.com/technologies/partner-sites">Partner policy</a></li>            
+<li><a src="https://support.google.com/admob/answer/9012903">Ad technology providers</a></li>       
+</ul></p>
 
 
-<h2>Contact Us</h2>
-<p>If you have any questions about this Privacy Policy, please contact us:</p>
-<ul>
-        <li>By email: pomanysochka.company@gmail.com</li>
-</ul>                                
+<h3>3.2 Google Play Services</h3>
+
+<p>Google Play Services offers APIs and security services to the Android developer ecosystem.
+Google acts as a data controller for any personal data processed in Google Play Services,
+and offers user notices and consents about the use of personal data in the service’s user
+interface in Android.
+
+<p><ul>
+Collected informations:
+<li>Device information</li>
+<li>Log information</li>
+<li>Location information</li>
+<li>Unique application numbers</li>
+<li>Local storage</li>
+<li>Cookies and similar technologies</li>
+</ul></p>
+
+<p>Google use the collected information to provide, maintain, protect and improve Google's
+services, to develop new ones, and to protect Google and the users. Google also use this
+information to offer you tailored content – like giving you more relevant search results
+and ads.</p>
+
+<p><ul>
+Online resources:
+<li><a src="https://policies.google.com/terms">Google Terms of Service</a></li> 
+<li><a src="https://policies.google.com/privacy">Google Privacy Policy</a></li>        
+</ul></p>
+
+<h2>4. Security</h2>
+
+<p>We are striving to use commercially acceptable means of protecting your Personal
+Information. But remember that no method of transmission over the internet, or method of 
+electronic storage is 100% secure and reliable, and we cannot guarantee its absolute
+security.</p>
+
+
+<h2>5. Distribution</h2>
+
+<p><ul>
+The only official channel for distribution of this app are:
+<li><a src="https://play.google.com/">Google Play Store</a></li>                 
+</ul></p>
+
+<p>Any other mode of distribution is not official and thus, is not maintained by the developers.
+This privacy policy is effective to distribution made on official channel only.</p>
+
+
+<h2>6. Changes to This Privacy Policy</h2>
+
+<p>This policy may be updated from time to time.</p>
+
+
+<h3>Contact us</h3>
+
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to
+contact us.</p>
+
+<p><i><b>pomanysochka.company@gmail.com</b></i></p>
