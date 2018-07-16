@@ -1,11 +1,11 @@
 <h1>Privacy Policy</h1>
 
 
-<p>PomanysochkaCompany ("developers") built the English Words For Kids app as an Ad Supported app. This SERVICE
-("app") is provided by at no cost.</p>
+<p>PomanysochkaCompany ("developers") built the English Words For Kids app as an Ad Supported app. This app
+is provided by at no cost.</p>
 
 <p>This privacy policy is used to inform you regarding policies with the collection, use, and 
-disclosure of Personal Information if anyone decided to use this Service.</p>
+disclosure of Personal Information if anyone decided to use this app.</p>
 
 
 <h2>1. Overview</h2>
