@@ -17,8 +17,8 @@ parties.</p>
 <p>Links to privacy policies of third party service providers used in the app</p>
 
 <ul>
-<li><a src="https://www.google.com/policies/privacy/">Google Play Services</a></li>
-<li><a src="https://support.google.com/admob/answer/6128543">AdMob</a></li>
+<li><a href="https://www.google.com/policies/privacy/">Google Play Services</a></li>
+<li><a href="https://support.google.com/admob/answer/6128543">AdMob</a></li>
 </ul>
 
 
@@ -58,11 +58,11 @@ cookie information (after 18 months)
 
 <p><ul>
 Online resources:
-<li><a src="https://www.google.com/policies/technologies/ads/">Privacy Policy</a></li>
-<li><a src="https://www.google.com/settings/ads">Opt out</a></li>                   
-<li><a src="https://privacy.google.com/businesses/adsservices/">Service Information</a></li>    
-<li><a src="https://policies.google.com/technologies/partner-sites">Partner policy</a></li>            
-<li><a src="https://support.google.com/admob/answer/9012903">Ad technology providers</a></li>       
+<li><a href="https://www.google.com/policies/technologies/ads/">Privacy Policy</a></li>
+<li><a href="https://www.google.com/settings/ads">Opt out</a></li>                   
+<li><a href="https://privacy.google.com/businesses/adsservices/">Service Information</a></li>    
+<li><a href="https://policies.google.com/technologies/partner-sites">Partner policy</a></li>            
+<li><a href="https://support.google.com/admob/answer/9012903">Ad technology providers</a></li>       
 </ul></p>
 
 
@@ -90,8 +90,8 @@ and ads.</p>
 
 <p><ul>
 Online resources:
-<li><a src="https://policies.google.com/terms">Google Terms of Service</a></li> 
-<li><a src="https://policies.google.com/privacy">Google Privacy Policy</a></li>        
+<li><a href="https://policies.google.com/terms">Google Terms of Service</a></li> 
+<li><a href="https://policies.google.com/privacy">Google Privacy Policy</a></li>        
 </ul></p>
 
 <h2>4. Security</h2>
@@ -106,7 +106,7 @@ security.</p>
 
 <p><ul>
 The only official channel for distribution of this app are:
-<li><a src="https://play.google.com/">Google Play Store</a></li>                 
+<li><a href="https://play.google.com/">Google Play Store</a></li>                 
 </ul></p>
 
 <p>Any other mode of distribution is not official and thus, is not maintained by the developers.
